@@ -12,3 +12,5 @@ https://wiki.eclipse.org/Dynamic_Working_Sets#Download.2FInstallation
 
 Next, copy the org.eclipse.oomph.workingsets.prefs to the appropriate location in your workspace, i.e. &lt;workspace_location&gt;/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.oomph.workingsets.prefs, 
 or simply copy the contents of the .metadata folder in the repo over to your .metadata folder for you JMC folder.
+
+Once Eclipse have been restarted, you should now have the working sets available. Try switching the Package Explorer to using the Working Sets as Top Level Elements.
